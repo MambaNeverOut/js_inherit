@@ -230,3 +230,6 @@ function inherit6() {
 inherit4(); // 原型式继承
 // inherit5(); // 寄生式继承
 // inherit6(); // 寄生式原生继承
+
+
+// 引用文章：https://juejin.cn/post/6914216540468576263#heading-0
